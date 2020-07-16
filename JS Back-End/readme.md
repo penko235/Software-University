@@ -1,14 +1,13 @@
 Theaters 📽️
 This is an application for creating and editing plays in theaters.
 
-The DB used is Mongo Atlas Cloud.
+The DB used is local (Robo 3T)
 
-Installation 👩🏻‍🔧
-Delete .example from .env.example file and fill it with your data.
+Installation 🔧
 
 Install node_modules
 
-npm install
+
 Start 🚀
 Start the project by typing in the terminal
 
