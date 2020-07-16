@@ -19,6 +19,8 @@ Install node_modules
 
 Start 🚀
 Start the project by typing in the terminal
-
-Open with localhost/8888
 npm run start
+
+
+Open in browser with: localhost/8888
+
